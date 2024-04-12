@@ -1,8 +1,6 @@
-# React + Vite
+![Give it a spin - Google Chrome 4_12_2024 3_49_45 PM](https://github.com/akmweb/give-it-a-spin/assets/150655160/009e735d-946b-4f02-8919-38f15a028028)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+On this website, you can spin the ball.
+And then I want to improve my webgl skills.That's why I built this website.
+<br/>
+Also, you can use my code to learn more about the 3d stuff and webgl.
